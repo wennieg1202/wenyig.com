@@ -8,13 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Gong Wenyi"
+description              : &description "A beginner in academic research and a Master's student in Population Economics from Peking University, focusing on health and labor issues"
+url                      : https://wenyigong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "wenyigong/wenyigong.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,41 +20,15 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Gong Wenyi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
-
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  bio              : "Wenyi Gong is a master candidate at the Institute of Population Research, Peking University. Wenyi obtained a bachelor’s degree in Management from Peking University. Currently, Wenyi is pursuing a master’s degree in Population Economics under the guidance of Supervisor Gong Chen since 2022, focusing on the social participation and health of older adults. She also serves as research associate at Institute of Ageing Studies, Peking University, coordinating and cooperating the Ageing and Wellbeing Initiative (ageingandwellbeing.org) with other colleagues. Since October 2023, Wenyi has been an academic visitor at the Oxford Institute of Population Ageing. Wenyi's research interests include employment, labor force participation, intergenerational transfer, and the health issues of older people. Wenyi has also conducted research on time banks and education, the transformation of social enterprises in China, and perceptions of aging."
+  location         : "Beijing"
+  employer         : "Peking University"
+  email            : "gongwenyi1999@gmail.com" 
+ 
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
